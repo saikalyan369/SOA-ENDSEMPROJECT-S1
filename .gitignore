@@ -1,0 +1,23 @@
+﻿# Java
+*.class
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.classpath
+.project
+.settings/
+.factorypath
+
+# Spring Tool Suite / Eclipse
+.springBeans
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+.metadata/
